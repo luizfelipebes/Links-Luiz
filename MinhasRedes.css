@@ -8,8 +8,8 @@
 
 body{
     font-family: 'Teko', sans-serif;
-    background-image: linear-gradient(to bottom, #041872,#050214);   
-    height: 100vh;
+    background-image: linear-gradient(to bottom, #041872,#050214);  
+    min-height: 100vh; 
 }
 header{
     color: white;
